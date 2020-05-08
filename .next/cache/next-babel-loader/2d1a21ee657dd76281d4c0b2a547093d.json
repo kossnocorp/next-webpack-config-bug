@@ -1,1 +1,0 @@
-{"ast":null,"code":"module.exports = require(\"./submodule\");","map":{"version":3,"sources":["/Users/koss/src/tmp/next-with-typesaurus-example/main-fields/index.js"],"names":["module","exports","require"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAiBC,OAAO,CAAC,aAAD,CAAxB","sourcesContent":["module.exports = require(\"./submodule\");\n"]},"metadata":{},"sourceType":"script"}

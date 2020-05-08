@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const message = \"Alias works as expected!\";","map":{"version":3,"sources":["/Users/koss/src/tmp/next-with-typesaurus-example/alias.js"],"names":["message"],"mappings":"AAAA,OAAO,MAAMA,OAAO,GAAG,0BAAhB","sourcesContent":["export const message = \"Alias works as expected!\";\n"]},"metadata":{},"sourceType":"module"}
