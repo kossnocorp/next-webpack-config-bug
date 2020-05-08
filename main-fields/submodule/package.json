@@ -1,0 +1,4 @@
+{
+  "ssr": "./ssr.js",
+  "browser": "./browser.js"
+}
